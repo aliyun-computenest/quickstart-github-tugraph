@@ -56,7 +56,7 @@ TuGraph使用流程如下图所示：
 ```
 ip geamaker.alipay.net #ip ip为TuGraph Platform所在主机 IP
 ```
-浏览器上输入 https://geamaker.alipay.net 显示登录界面如下，输入用户名和密码后进行登录。
+浏览器上输入 http://geamaker.alipay.net 显示登录界面如下，输入用户名和密码后进行登录。
 ![image.png](images/2.png)
 
 ## 权限配置
